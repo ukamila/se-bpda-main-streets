@@ -5,7 +5,7 @@ import {Homepage} from './pages/homepage';
 function App() {
   return (
     <div className="App">
-      <p> BPDA Main Streets </p>
+      <p> BPDA Main Streets</p>
       <Homepage />
     </div>
   );

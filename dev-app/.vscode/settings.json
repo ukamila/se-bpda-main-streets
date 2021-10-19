@@ -1,8 +1,7 @@
 {
-    "typescript.tsdk": "node_modules/typescript/lib",
-    "eslint.codeActionsOnSave.rules": [],
-    "eslint.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-      },
-      "eslint.validate": ["javascript"]
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.codeActionsOnSave.rules": [],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
 }
