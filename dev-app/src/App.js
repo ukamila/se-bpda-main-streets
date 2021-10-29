@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import {Homepage} from './pages/homepage';
-import {Map} from './components/map';
+import {Map} from './components/Map';
 
 function App() {
   const location = {
