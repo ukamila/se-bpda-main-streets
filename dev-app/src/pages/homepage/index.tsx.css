@@ -3,6 +3,18 @@
     font-weight: bold;
 }
 
+.block1 {
+    display: flexbox;
+    align-items:baseline;
+    margin: 40px;
+}
+
+.image {
+    width: 800px;
+    position: absolute;
+    left: 20px;
+}
+
 .list {
     text-align: right;
     margin-right: 40px;
