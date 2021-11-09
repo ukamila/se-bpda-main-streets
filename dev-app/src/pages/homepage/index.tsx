@@ -1,6 +1,6 @@
 import React from 'react';
 import './index.tsx.css';
-import Map from './map.png';
+import {Map} from 'components/Map';
 
 interface Props {
     data?: string
@@ -62,14 +62,14 @@ class Homepage extends React.Component<Props, {}> {
     return (
       <div>
         <span className="span">Homepage</span>
-        <div className="block1"> <img src={Map} className="image" />
-          <span className="overview">List Overview</span>
-          {data.map((item) =>
-            <div className="list" key="item.id">
-              <div className="name">{item.name}</div>
-              <div className="type">{item.type}</div>
-            </div>,
-          )}</div>
+        <span className="overview">List Overview</span>
+        <Map />
+        {data.map((item) =>
+          <div className="list" key="item.id">
+            <div className="name">{item.name}</div>
+            <div className="type">{item.type}</div>
+          </div>,
+        )}
       </div>
     );
   }
