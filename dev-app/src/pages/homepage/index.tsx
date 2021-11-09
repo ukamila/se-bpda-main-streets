@@ -63,13 +63,15 @@ class Homepage extends React.Component<Props, {}> {
       <div>
         <span className="span">Homepage</span>
         <span className="overview">List Overview</span>
-        <Map />
-        {data.map((item) =>
-          <div className="list" key="item.id">
-            <div className="name">{item.name}</div>
-            <div className="type">{item.type}</div>
-          </div>,
-        )}
+        <div className="block1">
+          <div className="map-component"><Map /></div>
+          {data.map((item) =>
+            <div className="list" key="item.id">
+              <div className="name">{item.name}</div>
+              <div className="type">{item.type}</div>
+            </div>,
+          )}
+        </div>
       </div>
     );
   }

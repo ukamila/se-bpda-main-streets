@@ -9,8 +9,7 @@
     margin: 40px;
 }
 
-.image {
-    width: 800px;
+.map-component {
     position: absolute;
     left: 20px;
 }
