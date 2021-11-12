@@ -1,0 +1,5059 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 144,
+                "name": "massachusetts behavioral health partnership"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 238,
+                "name": "division of insurance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064771,
+                    42.34592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 324,
+                "name": "banks division"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064771,
+                    42.34592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 145,
+                "name": "mass division of banks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064771,
+                    42.34592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 31,
+                "name": "united states monorail corp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067265,
+                    42.342448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 59,
+                "name": "stanspec"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067265,
+                    42.342448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 143,
+                "name": "massachusetts professional licensing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 146,
+                "name": "mass commonwealth insurance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 231,
+                "name": "e g leon & co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 349,
+                "name": "american crane & hoist inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067265,
+                    42.342448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 33,
+                "name": "unidine corp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064771,
+                    42.34592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 96,
+                "name": "racepoint global, inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 228,
+                "name": "elephant walk south end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070531,
+                    42.341227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 1,
+                "name": "zeybekoglu & associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 135,
+                "name": "ming's supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065529,
+                    42.344166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 281,
+                "name": "c mart of herald st"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065099,
+                    42.346182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 253,
+                "name": "connelly partners"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 210,
+                "name": "foodie's urban market"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070838,
+                    42.341176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 294,
+                "name": "boston university dental school"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 338,
+                "name": "asian american civic association"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 187,
+                "name": "hope house inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 48,
+                "name": "the gallows"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070211,
+                    42.341371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 94,
+                "name": "residence inn boston downtown/south end"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.081055,
+                    42.333469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 125,
+                "name": "nadaaa inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079258,
+                    42.33425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 211,
+                "name": "flour bakery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074821,
+                    42.33836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 250,
+                "name": "cooper community center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079037,
+                    42.334862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 38,
+                "name": "tr engel group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 359,
+                "name": "88 supermarket"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065099,
+                    42.346182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 2,
+                "name": "youth build boston designery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 192,
+                "name": "hattie b cooper commumnity center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079037,
+                    42.334862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 345,
+                "name": "anna bissonnette house"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 65,
+                "name": "south end community health center, inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074921,
+                    42.338291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 109,
+                "name": "perrotine"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 256,
+                "name": "committee to end elder"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 282,
+                "name": "c & l retail llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 19,
+                "name": "walgreens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074959,
+                    42.338253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 182,
+                "name": "interseminarian-project place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066329,
+                    42.343866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 181,
+                "name": "j r carmichael co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067265,
+                    42.342448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 245,
+                "name": "curriculum instruction & tech"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 284,
+                "name": "building inspection"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 343,
+                "name": "apartments.com"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 66,
+                "name": "south end community dentistry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074921,
+                    42.338291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 67,
+                "name": "south end burying ground"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 98,
+                "name": "proverb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 138,
+                "name": "mike's city diner"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076084,
+                    42.336974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 189,
+                "name": "homeless services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 199,
+                "name": "grant manor tenants associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 203,
+                "name": "geobotics ltd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 204,
+                "name": "gateman clinic"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075215,
+                    42.33734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 81,
+                "name": "sea-dar enterprises inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 84,
+                "name": "salvation army community center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07184,
+                    42.339863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 113,
+                "name": "pain spine & rehab consulting"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075264,
+                    42.338509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 243,
+                "name": "cvs/pharmacy"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064911,
+                    42.344589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 29,
+                "name": "ups access point location"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 52,
+                "name": "suffolk jewelers & pawnbrokers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078788,
+                    42.334645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 291,
+                "name": "boston youth sanctuary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 99,
+                "name": "prodyne corp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065922,
+                    42.343266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 102,
+                "name": "pride mortgage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07,
+                    42.341412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 137,
+                "name": "mill river professional center, llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 147,
+                "name": "marais historic investments llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.073387,
+                    42.33848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 216,
+                "name": "fame food management, inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 223,
+                "name": "empire loan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065683,
+                    42.344004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 230,
+                "name": "east concord street limited partnership"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 252,
+                "name": "consumer affairs & bus"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 286,
+                "name": "bromfield art gallery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 334,
+                "name": "atlas investment group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 26,
+                "name": "urban property management"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 142,
+                "name": "master builder publications"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.071449,
+                    42.339458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 301,
+                "name": "boston housing authority"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076245,
+                    42.337424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 303,
+                "name": "boston higher education resource center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 13,
+                "name": "west newton donuts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067363,
+                    42.342368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 39,
+                "name": "toro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075881,
+                    42.336937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 46,
+                "name": "the smith"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 82,
+                "name": "sb architects & design build"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 90,
+                "name": "rotch field"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 91,
+                "name": "rosie's place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 126,
+                "name": "myers + chang"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066329,
+                    42.343866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 169,
+                "name": "keller williams realty"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 190,
+                "name": "hearth inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 191,
+                "name": "health centers mass league"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 212,
+                "name": "first student inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079716,
+                    42.333251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 220,
+                "name": "european wax center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07,
+                    42.341412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 221,
+                "name": "equator restaurant"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076614,
+                    42.337078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 226,
+                "name": "elm appraisal service"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 235,
+                "name": "dpf direct parts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067719,
+                    42.341499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 266,
+                "name": "chase"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.34514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 280,
+                "name": "camp harbor view"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079312,
+                    42.334154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 293,
+                "name": "boston university medical center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 300,
+                "name": "boston housing authority"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070351,
+                    42.340202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 302,
+                "name": "boston housing authority"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.071449,
+                    42.339458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 47,
+                "name": "the salvation army"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07184,
+                    42.339863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 62,
+                "name": "south end streets inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 73,
+                "name": "slalom consulting"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 79,
+                "name": "sell master inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.072139,
+                    42.340035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 97,
+                "name": "pure hair design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 114,
+                "name": "over under"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 124,
+                "name": "national network-child"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 140,
+                "name": "mazon lighting design llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067688,
+                    42.341492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 153,
+                "name": "loyal companion"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 159,
+                "name": "lean & local"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065922,
+                    42.343266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 185,
+                "name": "interfaith housing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075393,
+                    42.338075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 242,
+                "name": "dailybreak cp llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 268,
+                "name": "cellobello inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 288,
+                "name": "brix iii inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067505,
+                    42.342026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 354,
+                "name": "afrikcan forward inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 4,
+                "name": "yan's china star"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065529,
+                    42.344166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 10,
+                "name": "what we eat llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065922,
+                    42.343266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 27,
+                "name": "urban management"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 43,
+                "name": "thomas construction trailer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06971,
+                    42.339684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 54,
+                "name": "studio 301"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 56,
+                "name": "steven cohen team"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 95,
+                "name": "real estate appraisers board"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 103,
+                "name": "post road provisions"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 115,
+                "name": "oudens ello architecture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 120,
+                "name": "oishii boston"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065922,
+                    42.343266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 123,
+                "name": "new ming inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065529,
+                    42.344166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 150,
+                "name": "mandela homes llp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 156,
+                "name": "lim design studio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 167,
+                "name": "kennedy desing build"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079312,
+                    42.334154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 174,
+                "name": "john buckley architecture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 178,
+                "name": "jaho coffee & tea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075596,
+                    42.337932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 200,
+                "name": "grant manor computer center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 207,
+                "name": "fuji food"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06735,
+                    42.342378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 240,
+                "name": "dish network"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.073552,
+                    42.339657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 255,
+                "name": "community research initiative"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07,
+                    42.341412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 273,
+                "name": "cathedral station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066721,
+                    42.342772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 283,
+                "name": "burro bar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069283,
+                    42.341667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 305,
+                "name": "boston chops"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069613,
+                    42.341631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 321,
+                "name": "bar mezzana"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 355,
+                "name": "a4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 3,
+                "name": "yen consulting group inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065922,
+                    42.343266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 5,
+                "name": "william soohoo law office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06584,
+                    42.343596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 35,
+                "name": "tweed barbers of boston"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 57,
+                "name": "stern mccafferty architects"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 63,
+                "name": "south end hospitality llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 72,
+                "name": "sleeping dog properties inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 117,
+                "name": "optimum mortgage corporation"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 175,
+                "name": "jebb & driggin realty inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 179,
+                "name": "jacobson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 180,
+                "name": "jacket river consulting inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070531,
+                    42.341227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 205,
+                "name": "garage door boston"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 213,
+                "name": "feno's pizza & roast beef"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067383,
+                    42.342319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 218,
+                "name": "expressive life"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075393,
+                    42.338075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 222,
+                "name": "endurance pilates & yoga llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074712,
+                    42.337939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 254,
+                "name": "connelly digital"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 323,
+                "name": "banshee maintenance inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 30,
+                "name": "unleashed by petco"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067741,
+                    42.341843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 50,
+                "name": "tatte bakery & cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.34514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 61,
+                "name": "spalding tougias architects"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 83,
+                "name": "savoy condo trust"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067509,
+                    42.342006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 105,
+                "name": "picture park"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 201,
+                "name": "grant manor apartments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0779,
+                    42.335608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 233,
+                "name": "dunkin'"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065842,
+                    42.343712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 236,
+                "name": "dover lofts condo trust"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 271,
+                "name": "catholic charities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068161,
+                    42.340777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 272,
+                "name": "cathedral tenants united inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.071177,
+                    42.340056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 275,
+                "name": "cathedral of holy cross"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069946,
+                    42.3409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 289,
+                "name": "brigham surgical group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 290,
+                "name": "bostonian building products inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 296,
+                "name": "boston medical center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 297,
+                "name": "boston medical center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 340,
+                "name": "arlington court condominium association"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070238,
+                    42.341234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 7,
+                "name": "wilkes passage condominiums"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 14,
+                "name": "weichert realtors-hudson"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 44,
+                "name": "thomas construction"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070528,
+                    42.339515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 49,
+                "name": "the franklin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.073105,
+                    42.338249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 75,
+                "name": "shoe leave"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.34514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 78,
+                "name": "ser verde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 80,
+                "name": "seiyo sushi & wine shop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076614,
+                    42.337078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 86,
+                "name": "roxse homes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 87,
+                "name": "roxbury corners parmelee corp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078259,
+                    42.336172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 92,
+                "name": "rollins square condominium"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067719,
+                    42.341499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 107,
+                "name": "peter's park dog run"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 110,
+                "name": "paul rhode design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 116,
+                "name": "orange octopus trust"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075091,
+                    42.337426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 119,
+                "name": "olympia flower store"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 127,
+                "name": "music associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 130,
+                "name": "montague corp"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 155,
+                "name": "little lovage club"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074712,
+                    42.337939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 157,
+                "name": "leon electric"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067375,
+                    42.342532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 170,
+                "name": "keel gear"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 183,
+                "name": "international translation co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077884,
+                    42.335932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 198,
+                "name": "gti properties"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 208,
+                "name": "franklin square apartments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.073105,
+                    42.338249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 209,
+                "name": "foust clapp management inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079876,
+                    42.333798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 224,
+                "name": "emerson climate tech inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079258,
+                    42.33425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 234,
+                "name": "driggin realty group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 244,
+                "name": "curtis realty group inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064828,
+                    42.344448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 246,
+                "name": "cuppacoffee"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.345148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 247,
+                "name": "crystal realty co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077031,
+                    42.335981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 251,
+                "name": "contouring by kate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 257,
+                "name": "collaborative boston real estate"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078982,
+                    42.334528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 277,
+                "name": "caritas communities"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078654,
+                    42.334747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 287,
+                "name": "brix wine shop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067505,
+                    42.342026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 298,
+                "name": "boston lightning rod co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 309,
+                "name": "blowleaf"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 311,
+                "name": "berkshire bank"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068352,
+                    42.34161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 314,
+                "name": "beauchemin grassi interiors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 315,
+                "name": "beacon health options"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 316,
+                "name": "beacon community llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 319,
+                "name": "barkan management co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 326,
+                "name": "ballast realty group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 327,
+                "name": "ball in the house llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067762,
+                    42.341516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 333,
+                "name": "atlas investment group llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 348,
+                "name": "american reprographics co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 358,
+                "name": "a d construction llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 360,
+                "name": "7-eleven"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 23,
+                "name": "vaughn martel law"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066322,
+                    42.34309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 24,
+                "name": "vaughn martel law"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 53,
+                "name": "suffolk electrical company"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 68,
+                "name": "soo hoo, richard insurance agency, inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065865,
+                    42.343524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 69,
+                "name": "smith brothers electrical co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 76,
+                "name": "shawmut electrical contractors"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 88,
+                "name": "roxbury corners llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07724,
+                    42.335999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 101,
+                "name": "prism partnership llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 108,
+                "name": "pest control boston king"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067879,
+                    42.341927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 112,
+                "name": "parmelee court homes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07724,
+                    42.335999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 128,
+                "name": "mount horeb organization"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 139,
+                "name": "midwestern higher education compact"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 158,
+                "name": "leon eg co inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067265,
+                    42.342448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 172,
+                "name": "jules place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 184,
+                "name": "international poster gallery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 197,
+                "name": "hair stop beauty supply"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078015,
+                    42.335515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 259,
+                "name": "code 10 restaurant cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074732,
+                    42.337925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 317,
+                "name": "bay state industrial service"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067551,
+                    42.342197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 318,
+                "name": "barre 3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.072487,
+                    42.339947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 325,
+                "name": "bank of america advanced center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077031,
+                    42.335981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 328,
+                "name": "bake to be fit"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064828,
+                    42.344448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 341,
+                "name": "architectural access board"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 346,
+                "name": "anita kurl"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075495,
+                    42.337778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 356,
+                "name": "a1 exterminators"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 9,
+                "name": "whydesignworks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 12,
+                "name": "western union agent location"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074959,
+                    42.338253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 15,
+                "name": "webster bank"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069439,
+                    42.341512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 21,
+                "name": "viola lovely"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070207,
+                    42.341252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 22,
+                "name": "vintage garden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 34,
+                "name": "ultra spicy house"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065529,
+                    42.344166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 36,
+                "name": "troy boston apartments"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.345148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 55,
+                "name": "stripe & field"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 64,
+                "name": "south end frames"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 70,
+                "name": "sliding door co of mass"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065541,
+                    42.343157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 77,
+                "name": "shamso hair studio & spa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077884,
+                    42.335932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 89,
+                "name": "roto-rooter plumbing & water cleanup"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 93,
+                "name": "restoration resources"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 121,
+                "name": "o'neill daniel f co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 122,
+                "name": "northpoint services inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 129,
+                "name": "morgan & milo llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 131,
+                "name": "mj berries design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 134,
+                "name": "ministerio mujer eres escogida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070351,
+                    42.340202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 136,
+                "name": "mimosa fresh flower design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 152,
+                "name": "lyophilization services new"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 154,
+                "name": "lord jeff's beef place"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 162,
+                "name": "laconia gallery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 166,
+                "name": "kent newton salon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068512,
+                    42.342098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 171,
+                "name": "just faithin it ministries"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070528,
+                    42.339515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 188,
+                "name": "hood design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074969,
+                    42.33845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 194,
+                "name": "hark & osborne interior design llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 195,
+                "name": "hark & osborne"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 227,
+                "name": "elite services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 229,
+                "name": "electrology institute-new"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 249,
+                "name": "cor llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 263,
+                "name": "city nails & spa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067424,
+                    42.342318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 264,
+                "name": "christ embassy boston inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078461,
+                    42.335563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 274,
+                "name": "cathedral outreach ministries"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069946,
+                    42.3409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 292,
+                "name": "boston urban hospitality"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069613,
+                    42.341631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 295,
+                "name": "boston tlc movers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 299,
+                "name": "boston housing authority"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.071177,
+                    42.340056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 307,
+                "name": "boomerangs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070389,
+                    42.341267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 335,
+                "name": "atlantic drain service co inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 353,
+                "name": "aiden rhaa photography"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079312,
+                    42.334154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 6,
+                "name": "william j bladd law offices"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.072487,
+                    42.339947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 11,
+                "name": "western union agent location"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077054,
+                    42.336844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 25,
+                "name": "urbanity dance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066322,
+                    42.34309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 40,
+                "name": "top notch barbers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 41,
+                "name": "top notch"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 42,
+                "name": "tobacco divestment project"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 45,
+                "name": "the wig shop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.077774,
+                    42.336366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 58,
+                "name": "state street barbers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 74,
+                "name": "sid's smoke"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065448,
+                    42.344047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 85,
+                "name": "roxtar foods ltd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 148,
+                "name": "mandela residents co-op associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 151,
+                "name": "m flynn jewelry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 163,
+                "name": "laconia associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 164,
+                "name": "kushtia inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078168,
+                    42.335798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 165,
+                "name": "king's cleaners"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 168,
+                "name": "ken snyder homes inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 196,
+                "name": "hands on art"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 214,
+                "name": "fenny salon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067444,
+                    42.342289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 237,
+                "name": "don quijote"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075053,
+                    42.338023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 239,
+                "name": "dispensing opticians board"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 258,
+                "name": "code ten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074712,
+                    42.337939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 261,
+                "name": "clevergreen cleaners"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065708,
+                    42.343728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 265,
+                "name": "chiropractors board-registration"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 267,
+                "name": "champions kickboxing"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.067363,
+                    42.342368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 278,
+                "name": "cardinal medeiros center for the homeless"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.079876,
+                    42.333798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 285,
+                "name": "bruce miller architecture"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 306,
+                "name": "boston auto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066229,
+                    42.34435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 308,
+                "name": "blue goose boston locksmith"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 310,
+                "name": "beyjund spheres record"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078423,
+                    42.335593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 312,
+                "name": "belsito barber shop"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 320,
+                "name": "barbers board-registration division"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 347,
+                "name": "andy's cleaners"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075746,
+                    42.337692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 350,
+                "name": "alpha immigrant center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 352,
+                "name": "alex pizza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066876,
+                    42.34229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 8,
+                "name": "whydesignworks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 16,
+                "name": "wdi appraisal services"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 17,
+                "name": "wax job"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 18,
+                "name": "washington gateway main street"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 71,
+                "name": "sliding"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065258,
+                    42.343086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 106,
+                "name": "phyto usa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 118,
+                "name": "on inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 160,
+                "name": "laz cafe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076477,
+                    42.336495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 176,
+                "name": "janet bailey associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 202,
+                "name": "grant ame church"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07913,
+                    42.334361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 206,
+                "name": "gallardoworks"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 215,
+                "name": "faucher daniel couture design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 217,
+                "name": "face facts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 270,
+                "name": "ceatro group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.34514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 279,
+                "name": "canvas fine arts"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.066057,
+                    42.342891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 332,
+                "name": "avanti studios"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 336,
+                "name": "aspect arts inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 342,
+                "name": "architects board-registration"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 344,
+                "name": "anoush'ella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.073978,
+                    42.338912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 351,
+                "name": "alpha gallery"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 20,
+                "name": "visionary steps"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 28,
+                "name": "urban edge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 32,
+                "name": "union park pizza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.070364,
+                    42.341305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 37,
+                "name": "trans national group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 51,
+                "name": "systematics inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 60,
+                "name": "squashbusters"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075495,
+                    42.337778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 100,
+                "name": "privatus care solutions"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 104,
+                "name": "pod digital design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 111,
+                "name": "patricia busso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 132,
+                "name": "misc monique"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 133,
+                "name": "minni space llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 141,
+                "name": "matter & light"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 149,
+                "name": "mandela newlife"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078631,
+                    42.335425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 161,
+                "name": "lacrosse studio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 173,
+                "name": "john moriarty & associates"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 177,
+                "name": "jam-design"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.065706,
+                    42.343695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 186,
+                "name": "imagiration"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 193,
+                "name": "harrison llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064436,
+                    42.34514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 219,
+                "name": "excellent writers group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 225,
+                "name": "elsewhere llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 232,
+                "name": "dylanium knits"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 241,
+                "name": "digital standard"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 248,
+                "name": "coreworks llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 260,
+                "name": "cmit solutions-boston"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 262,
+                "name": "ckg shawmut llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 269,
+                "name": "ceeh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.074928,
+                    42.337655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 276,
+                "name": "casa design llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 304,
+                "name": "boston elite sports inc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.078259,
+                    42.336172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 313,
+                "name": "becker"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.064091,
+                    42.34603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 322,
+                "name": "bar lyon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.076565,
+                    42.336431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 329,
+                "name": "b u alzheimers center"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 330,
+                "name": "az pneumatica llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 331,
+                "name": "avenue group"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.068538,
+                    42.342247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 337,
+                "name": "asklabs co"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.069429,
+                    42.341858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 339,
+                "name": "arnold worldwide"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 357,
+                "name": "a hope boston needle exchange"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.0735,
+                    42.3398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "object_id": 361,
+                "name": "1704 washington llc"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.075881,
+                    42.336937
+                ]
+            }
+        }
+    ]
+}

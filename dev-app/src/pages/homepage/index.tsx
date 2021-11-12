@@ -62,7 +62,6 @@ class Homepage extends React.Component<Props, {}> {
     return (
       <div>
         <span className="span">Homepage</span>
-        <span className="overview">List Overview</span>
         <div className="block1">
           <div className="map-component"><Map /></div>
           {data.map((item) =>
